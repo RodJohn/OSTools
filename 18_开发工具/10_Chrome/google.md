@@ -9,6 +9,10 @@
     Canary Chrome
 
 
+插件
+
+https://www.cnblogs.com/wi100sh/p/5701525.html
+
 tab
 ​    
     掘金
@@ -70,4 +74,8 @@ tab
 参考
 
     https://juejin.im/post/5ac044c75188251fc32967fd?utm_source=gold_browser_extension
+    
+    
+    https://www.cnblogs.com/wi100sh/p/5701525.html
+    
 
